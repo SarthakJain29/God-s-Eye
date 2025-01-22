@@ -1,4 +1,4 @@
-# godeye
+# God's Eye
 This was a team project built by me and my teammates during our 2nd year for machine learning course
 ## Overview
 
