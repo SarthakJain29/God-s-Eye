@@ -1,5 +1,5 @@
 # godeye
-
+This was a team project built by me and my teammates during our 2nd year for machine learning course
 ## Overview
 
 The Accident Detection AI System is designed to enhance road safety by quickly identifying traffic accidents using real-time video footage from cameras installed at traffic lights. This system promptly informs emergency services, significantly reducing the response time and improving the chances of providing timely assistance to accident victims. By leveraging advanced AI technology, our system ensures high accuracy in accident detection, minimizing manual efforts and errors.
